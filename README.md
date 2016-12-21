@@ -1,1 +1,1 @@
-# Brasket Counter - Udacity Exercicio Práico 02
+# Brasket Counter - Udacity Exercício Prático 02
