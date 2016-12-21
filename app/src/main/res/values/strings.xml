@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basket Counter</string>
+
+    <string name="time_um" translatable="false">Equipe 01</string>
+    <string name="time_dois" translatable="false">Equipe 02</string>
+    <string name="_0">0</string>
+
+    //Buttons
+    <string name="tres_pontos_button">+3 Pontos</string>
+    <string name="dois_pontos_button">+2 Pontos</string>
+    <string name="um_ponto_button">+1 Ponto</string>
+    <string name="reset_label_button">Reset</string>
+</resources>
